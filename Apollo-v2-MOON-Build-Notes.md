@@ -1,4 +1,4 @@
-# ISM-02 · APOLLO MOON MUSIFICATION (Tranquillitatis · Procellarum)
+# APOLLO MOON MUSIFICATION 
 
 **Build notes. 21 November 2026.**
 
